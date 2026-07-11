@@ -1,0 +1,9 @@
+#this file lists all the QA departments members of Orthofix
+
+#Soumya
+#Irfan
+#Cristine
+#Mamta
+#Rahul
+#Sabrina
+#Monsters*
