@@ -2,7 +2,6 @@
 
 #Souvik
 #Ron
-#Smith
 #John
 #Lisa
 #Julie
